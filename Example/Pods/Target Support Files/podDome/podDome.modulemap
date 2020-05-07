@@ -1,0 +1,6 @@
+framework module podDome {
+  umbrella header "podDome-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "podDome",
+  "version": "0.1.0",
+  "summary": "A short description of podDome.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangkai/podDome",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangkai": "zhangkai@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangkai/podDome.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podDome/Classes/**/*"
+}

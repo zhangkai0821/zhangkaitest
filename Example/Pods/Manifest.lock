@@ -1,0 +1,16 @@
+PODS:
+  - podDome (0.1.0)
+
+DEPENDENCIES:
+  - podDome (from `../`)
+
+EXTERNAL SOURCES:
+  podDome:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podDome: 688c9815252892fa04b2ce42c9dc8a7742049c5d
+
+PODFILE CHECKSUM: 8a6325c2d12dfc41eb34809343eb3878ad6bf669
+
+COCOAPODS: 1.9.1
